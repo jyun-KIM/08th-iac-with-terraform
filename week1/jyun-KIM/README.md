@@ -44,7 +44,7 @@ IaC는 특정 기술의 '발명'이 아닌, IT 환경 변화에 따라 '필연�
 -   **DevOps:** 개발(Dev)과 운영(Ops)의 사일로(Silo)를 허물고, 더 빠른 배포 속도를 추구하게 되었다.
 -   **MSA (Microservice Architecture):** 거대했던 모놀리식(Monolithic) 앱이 수십, 수백 개의 작은 마이크로서비스로 분리되었다. 이는 관리해야 할 인프라(서버, DB, 네트워크) 구성이 폭발적으로 증가했음을 의미한다.
 
-![MSA-Monolithic.png](attachment:137dd595-bf50-482b-9639-4691e13c2173:image.png)
+<img width="721" height="435" alt="MSA-Monolithic" src="https://github.com/user-attachments/assets/b244a091-441d-431b-b0f1-719d77a5d369" />
 
 #### 결론
 
