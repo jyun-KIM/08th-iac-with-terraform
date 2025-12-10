@@ -1,17 +1,16 @@
 # 주제
 
-학습 주제를 작성해 주세요.
+테라폼 실습
 
 # 요약
 
-- 학습 내용을 간단하게 요약해 주세요.
+- 테라폼을 사용한 VPC, Security Group 생성 실습
 
 # 학습 내용
 
-## 소주제
-
-학습 내용을 작성해 주세요.
+- CHAPTER 11 YAML 파일로 관리하는 VPC 모듈 만들기
+- CHAPTER 12 CSV 파일로 관리하는 보안 그룹 모듈 만들기
 
 # 추가
 
-- 추가로 공유하고 싶은 내용을 작성해 주세요. (어떤 것이든 좋습니다!)
+- [Amazon VPC Regional NAT Gateway](https://aws.amazon.com/ko/blogs/networking-and-content-delivery/introducing-amazon-vpc-regional-nat-gateway/)

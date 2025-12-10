@@ -1,0 +1,18 @@
+cidr: 10.0.0.0/16
+
+env: production
+team: devops
+
+subnet_newbits: 8
+subnet_azs: [a, c, b, d]
+subnets:
+  pub-nat: [0, 1]
+  pri-app: [2, 3]
+  pri-db: [4, 5]
+  pri-network: [6, 7]
+  pri-msk: [8, 9, 10]
+
+nat:
+  create: true
+  subnet: pub-nat
+  per_az: true
